@@ -8,7 +8,7 @@ cask 'xquartz' do
   name 'XQuartz'
   homepage 'https://www.xquartz.org/'
 
-  auto_updates true
+  auto_updates false
 
   pkg 'XQuartz.pkg'
 
